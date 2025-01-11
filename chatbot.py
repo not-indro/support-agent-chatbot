@@ -4,8 +4,11 @@ import json
 from dotenv import load_dotenv
 
 load_dotenv()
+# Access the API key from Streamlit Secrets
+GROQ_API_KEY = st.secrets["GROQ_API_KEY"]
 
-client = Groq(api_key=os.environ.get("GROQ_API_KEY"))
+# Initialize Groq client
+client = Groq(api_key=GROQ_API_KEY)
 
 with open("cdp_docs.json", "r") as f:
     cdp_docs = json.load(f)
