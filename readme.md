@@ -120,5 +120,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [Playwright](https://playwright.dev/) for browser automation.
 - [Groq](https://groq.com/) for the powerful LLM API.
 - [Streamlit](https://streamlit.io/) for the user interface.
-
-```
