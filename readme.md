@@ -1,6 +1,6 @@
 Here’s a **proper and professional README.md** for your GitHub repository. It’s written in Markdown format and includes all the necessary details about your project, how to set it up, and how to use it.
 
-```markdown
+markdown
 # Support Agent Chatbot for CDPs
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
@@ -120,5 +120,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [Playwright](https://playwright.dev/) for browser automation.
 - [Groq](https://groq.com/) for the powerful LLM API.
 - [Streamlit](https://streamlit.io/) for the user interface.
-
-```
